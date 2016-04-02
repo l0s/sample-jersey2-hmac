@@ -17,4 +17,5 @@ This is simple REST application built on the following stack:
 ## Test
 
 `cd src/test/resources`
+
 `sh test.sh`
